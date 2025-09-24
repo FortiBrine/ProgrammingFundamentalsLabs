@@ -3,11 +3,11 @@
 This repository contains lab assignments for the Programming Fundamentals course, focusing on core JavaScript concepts.
 
 ## Topics
-- [Variables and Data Types](./VariablesAndDataTypes)
-- [JavaScript Syntax](./JavaScriptSyntax)
-- [Functions and Methods](./FunctionsAndMethods)
-- [Loops and Iteration](./LoopsAndIteration)
-- [Closures and Chaining](./ClosuresAndChaining)
-- [Function Composition](./FunctionComposition)
-- [Arrays](./Arrays)
-- [Higher-Order Functions](./HigherOrderFunctions)
+- [x] [Variables and Data Types](./01_VariablesAndDataTypes)
+- [ ] [JavaScript Syntax](./02_JavaScriptSyntax)
+- [ ] [Functions and Methods](./03_FunctionsAndMethods)
+- [ ] [Loops and Iteration](./04_LoopsAndIteration)
+- [ ] [Closures and Chaining](./05_ClosuresAndChaining)
+- [ ] [Function Composition](./06_FunctionComposition)
+- [ ] [Arrays](./07_Arrays)
+- [ ] [Higher-Order Functions](./08_HigherOrderFunctions)
